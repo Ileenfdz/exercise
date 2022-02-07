@@ -1,6 +1,6 @@
-const exercise = require ('../scripts/exercise.js');
+const exercise = require('../scripts/exercise.js');
 
-describe('', () => {
+describe('Can you drive?', () => {
     test('should say she can drive', () => {
       expect(exercise(21)).toEqual('She can drive');
     });
