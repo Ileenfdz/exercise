@@ -1,0 +1,23 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "A program that asks for age, and if you're older 18, you can drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ileenfdz/exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ileenfdz/exercise/issues"
+  },
+  "homepage": "https://github.com/Ileenfdz/exercise#readme",
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
